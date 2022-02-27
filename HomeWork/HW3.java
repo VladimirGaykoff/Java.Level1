@@ -1,8 +1,7 @@
 package HomeWork;
 
-public class HomeWorkApp {
+public class HW3 {
     public static void main(String[] args) {
-
         int [] arr1 = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
         changeArray(arr1);
 
@@ -112,7 +111,4 @@ public class HomeWorkApp {
         }
         return true;
     }
-    }
-
-
-
+}
